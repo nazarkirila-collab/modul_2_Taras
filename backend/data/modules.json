@@ -1,0 +1,58 @@
+[
+  {
+    "id": "m1",
+    "stationId": "1",
+    "serialNumber": "SN-1001",
+    "filterType": "sediment",
+    "pressureDropBar": 0.4,
+    "resourceRemainingPercent": 72
+  },
+  {
+    "id": "m2",
+    "stationId": "1",
+    "serialNumber": "SN-1002",
+    "filterType": "membrane",
+    "pressureDropBar": 1.8,
+    "resourceRemainingPercent": 55
+  },
+  {
+    "id": "m3",
+    "stationId": "2",
+    "serialNumber": "SN-2001",
+    "filterType": "membrane",
+    "pressureDropBar": 3.2,
+    "resourceRemainingPercent": 9
+  },
+  {
+    "id": "m4",
+    "stationId": "2",
+    "serialNumber": "SN-2002",
+    "filterType": "carbon_block",
+    "pressureDropBar": 1.1,
+    "resourceRemainingPercent": 40
+  },
+  {
+    "id": "m5",
+    "stationId": "3",
+    "serialNumber": "SN-3001",
+    "filterType": "resin",
+    "pressureDropBar": 0.9,
+    "resourceRemainingPercent": 88
+  },
+  {
+    "id": "m6",
+    "stationId": "4",
+    "serialNumber": "SN-4001",
+    "filterType": "sediment",
+    "pressureDropBar": 4.5,
+    "resourceRemainingPercent": 12
+  },
+  {
+    "id": "m7",
+    "stationId": "5",
+    "serialNumber": "SN-5001",
+    "filterType": "carbon_block",
+    "pressureDropBar": 0.7,
+    "resourceRemainingPercent": 95
+  }
+]

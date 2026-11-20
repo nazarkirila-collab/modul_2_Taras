@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "code": "WS-KYIV-04",
+    "title": "Станція Київ, Оболонь",
+    "type": "reverse_osmosis",
+    "capacityLitersPerHour": 5000,
+    "status": "operational",
+    "lastServiceDate": "2026-09-12",
+    "targetPpm": 40,
+    "notes": "Контроль тиску щотижня"
+  },
+  {
+    "id": "2",
+    "code": "WS-LVIV-01",
+    "title": "Станція Львів, Сихів",
+    "type": "ultrafiltration",
+    "capacityLitersPerHour": 12000,
+    "status": "maintenance_required",
+    "lastServiceDate": "2026-05-03",
+    "targetPpm": 250,
+    "notes": ""
+  },
+  {
+    "id": "3",
+    "code": "WS-ODESA-02",
+    "title": "Станція Одеса, порт",
+    "type": "softener",
+    "capacityLitersPerHour": 800,
+    "status": "operational",
+    "lastServiceDate": "2026-10-21",
+    "targetPpm": 120,
+    "notes": "Засипка змінена в жовтні"
+  },
+  {
+    "id": "4",
+    "code": "WS-VIN-07",
+    "title": "Станція Вінниця, центр",
+    "type": "iron_removal",
+    "capacityLitersPerHour": 3000,
+    "status": "emergency_stop",
+    "lastServiceDate": "2026-03-15",
+    "targetPpm": 300,
+    "notes": "Аварійна зупинка, чекає ремонту насоса"
+  },
+  {
+    "id": "5",
+    "code": "WS-DNP-03",
+    "title": "Станція Дніпро, лівий берег",
+    "type": "reverse_osmosis",
+    "capacityLitersPerHour": 20000,
+    "status": "operational",
+    "lastServiceDate": "2026-08-30",
+    "targetPpm": 60,
+    "notes": ""
+  }
+]
